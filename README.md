@@ -42,6 +42,18 @@
 
 ---
 
+## 界面预览
+
+<p align="center">
+  <img src="assets/Survival mission.png" alt="保活任务配置 界面预览" width="780" />
+</p>
+
+<p align="center">
+  <img src="assets/Push channels.png" alt="消息推送渠道配置 界面预览" width="780" />
+</p>
+
+---
+
 ## 🚀 部署教程 (图文向导)
 
 整个部署过程都在 Cloudflare 网页控制台中完成，无需任何本地开发环境。
